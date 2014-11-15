@@ -97,7 +97,7 @@ $username = $Notes->get_username($_SESSION['uid']);
 
 
 
-		    setTimeout("quasar();",1000);
+		    setTimeout("fetch();",1000);
 
 		}
 
